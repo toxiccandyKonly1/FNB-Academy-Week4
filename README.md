@@ -1,7 +1,7 @@
 # FNB-Academy-Week4
 🚀 Week 4 FNB App Academy projects using core JavaScript: login validation, switch menus, string/number tasks, and DOM events. Features include onclick, getElementById(), and control flow mastery. Clean, beginner-friendly code for dynamic user interaction.
 🚀 FNB App Academy Week 4 Projects
-Dive into interactive web development with beginner JavaScript projects from Week 4 of the FNB App Academy! 🧑‍💻 From validating login forms to crafting dynamic menus, this repo showcases your journey into JS fundamentals.
+Dive into interactive web development with beginner JavaScript projects from Week 4 of the FNB App Academy! 🧑‍💻 From validating login forms to crafting dynamic menus, this repo showcases your journey into JS fundamentals and created a calculator app.
 
 🛠️ Projects Included
 🔐 Login Form Validation - Handle user input & feedback with conditional logic
