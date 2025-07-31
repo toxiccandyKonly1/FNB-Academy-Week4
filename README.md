@@ -24,4 +24,4 @@ Real-time interaction via event listeners
 Clean, readable JS code for smooth user experiences
 
 👀 Preview
-This week’s code brings logic to life — transforming static pages into interactive experiences with JavaScript wizardry!
+This week’s code brings logic to life - transforming static pages into interactive experiences with JavaScript wizardry!
